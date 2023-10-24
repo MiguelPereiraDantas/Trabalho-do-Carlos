@@ -17,7 +17,6 @@ Este projeto é um site para a venda do jogo "Grito dos Desconhecidos". O site i
 ## Demonstração
 - Trailer 1 
 - Trailer 2 
-- Trailer 3 
    
 ## Contribuição
 Contribuições são sempre bem-vindas! Se você quiser contribuir para este projeto, siga estas etapas:
